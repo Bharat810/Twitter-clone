@@ -1,0 +1,26 @@
+npm init -y  //To create package.json
+
+npm i express mongoose nodemon dotenv 
+
+express // Node js Framework ,Makes Backend easy
+
+mongoose // odm, map javascript objects, 
+
+nodemon // automatically reload when change is there 
+
+dotenv // environment files manage 
+
+
+
+create post : post
+
+get post : get
+
+get all post : get
+
+edit post : patch
+
+delete post : delete
+
+
+
